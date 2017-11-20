@@ -1,1 +1,37 @@
 theme: jekyll-theme-slate
+<!DOCTYPE html>
+<html lang="pt-br">  
+    <head>
+        <meta charset="utf-8">
+        <title>Dacunha Design</title>
+        <meta name="description" content="An interactive portfolio">
+        
+    </head>
+    <body>
+        <h1>DACUNHA DESING</h1>
+            <h2>Sobre mim:</h2>
+
+            <p>Desejo a oportunidade de atuar como designer gráfico na criação de logos, cartões de visitas dentre outras peças gráficas para aperfeiçoar os conhecimentos que adquiri ao longo do tempo, e colaborar com equipes de trabalho, atuar nesta área fará ampliar ainda mais meus conhecimentos e desenvolvimento profissional e pessoal. Fiz cursos extra curriculares de design gráfico e edição de imagens.</p>
+        <h2>Trabalho na criação e edição de:</h2>
+        <ul> 
+               <li>Logotipos;</li>
+               <li>Panfletos, Flyers, Folders e Catálogos em geral.</li>
+               <li>Identidade Visual.</li>
+               <li>Cartões de Visitas.</li>
+               <li>Ilustrações.</li>
+               <li>Banners, Outdoors.</li>
+               <li>Criação de Banners para sites.</li>
+               <li>Branding</li>
+               <li>Social Media</li>
+               <li>Artes para produtos personalizados</li>
+        </ul>
+
+             <h2>Habilidades:</h2>
+
+            Corel Draw Illustrator Photoshop Ilustração Comunicação VisualDesign de BannerDesign Gráfico Direção De Arte
+
+             <h2>Áreas de interesse:</h2>
+
+            Banners Design de ProdutoDesign Gráfico Direção de Arte Direção de Criação Emails e Newsletter Ilustração Logotipos Rótulos e Embalagens Edição de Imagens
+            </body>
+</html>
